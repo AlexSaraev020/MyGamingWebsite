@@ -1,0 +1,8 @@
+:root {
+    --color-svg: #030712; /* Culoare pentru tema light */
+  }
+  
+  .dark {
+    --color-svg: #06b6d4; /* Culoare pentru tema dark */
+  }
+  
